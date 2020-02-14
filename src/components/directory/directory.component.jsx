@@ -11,7 +11,7 @@ class Directory extends React.Component {
             
                 {
                   title: 'Camping',
-                  imageUrl: 'https://cdn.shopify.com/s/files/1/1250/6093/products/IRON_HORSE_TENT-14-X4.jpg?v=1512597504',
+                  // imageUrl: 'https://cdn.shopify.com/s/files/1/1250/6093/products/IRON_HORSE_TENT-14-X4.jpg?v=1512597504',
                   id: 1,
                   linkUrl: 'shop/camping'
                 },
